@@ -1,0 +1,10 @@
+title Single page app uusi
+
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+palvelin-->selain: status koodi 201 
+note over selain:
+selain lähettää datan ja palvelin lukee sen 
+mutta ei uudelleen lataa sivua
+end note
+
+
